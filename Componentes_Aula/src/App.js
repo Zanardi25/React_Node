@@ -3,6 +3,11 @@ import Letreiro from "./Components/Letreiro";
 import ContadorPessoas from "./Components/ContadorPessoas";
 import Profile from "./Components/Profile";
 import Gallery from "./Components/Gallery";
+import ToDoList from "./Components/ToDoList";
+import AProfile from "./Components/Avatar";
+import PackingList from "./Components/PackingList";
+import List from "./Components/ListComponent";
+import TeaGathering from "./Components/TeaGathering";
 
 function App() {
   return (
@@ -18,7 +23,17 @@ function App() {
         <Profile />
       <h2>Aula 03 e 04</h2>
         <Gallery />
-    </div>
+      <h2>Aula 03 e 04</h2>
+        <ToDoList />
+      <h2>Aula 03 e 04</h2>
+        <AProfile />
+      <h2>Aula 03 e 04</h2>
+        <PackingList />
+      <h2>Aula 03 e 04</h2>
+        <List />
+      <h2>Aula 03 e 04</h2>
+        <TeaGathering />
+          </div>
   );
 }
 
