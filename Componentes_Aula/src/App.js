@@ -1,6 +1,5 @@
 import Relogio from "./Components/Data_Hora";
 import Letreiro from "./Components/Letreiro";
-import ContadorPessoas from "./Components/ContadorPessoas";
 import Profile from "./Components/Profile";
 import Gallery from "./Components/Gallery";
 import ToDoList from "./Components/ToDoList";
@@ -17,8 +16,6 @@ function App() {
         <div className="letreiro"  style={{height: "50px"}}> 
         <Letreiro />
         </div>
-      <h2> Aula 02</h2>
-        <ContadorPessoas />
       <h2>Aula 03 e 04</h2>
         <Profile />
       <h2>Aula 03 e 04</h2>
