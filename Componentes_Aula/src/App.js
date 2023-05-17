@@ -1,4 +1,4 @@
-import Relogio from "./Components/Relogio";
+import Relogio from "./Components/Data_Hora";
 import Letreiro from "./Components/Letreiro";
 import ContadorPessoas from "./Components/ContadorPessoas";
 import Profile from "./Components/Profile";
@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <h2> Aula 01</h2>
-        <Relogio />
+        <Data_Hora />
         <div className="letreiro"  style={{height: "50px"}}> 
         <Letreiro />
         </div>
