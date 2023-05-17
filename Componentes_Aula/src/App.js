@@ -30,7 +30,7 @@ function App() {
       <h2>Aula 03 e 04</h2>
         <PackingList />
       <h2>Aula 03 e 04</h2>
-        <List />
+        <ListComponent />
       <h2>Aula 03 e 04</h2>
         <TeaGathering />
           </div>
